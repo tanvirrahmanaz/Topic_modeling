@@ -1,0 +1,8 @@
+CNI - cellular netw0rk issue
+PR  - Promotional issue
+DP - Data Package issue
+NS - Network issue
+AV - Availability issue
+IS - Internet issue
+MFS - Mobile Finance issue
+CCI - Call Center issue
